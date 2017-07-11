@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133282430625",
+    "firebase_url": "https://contacts-7c452.firebaseio.com",
+    "project_id": "contacts-7c452",
+    "storage_bucket": "contacts-7c452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133282430625:android:23097e6dbda5ce33",
+        "android_client_info": {
+          "package_name": "com.example.fidelbarcaya.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133282430625-e620nbf9e8t9rjhl2nb4c3k3c0bnr86i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIs5fryBYjeHfGn2_NJ6pRAWLp6vM2hfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

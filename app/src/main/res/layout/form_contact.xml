@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/enter_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_name"
+        android:textColorHint="@color/colorGray"
+        android:textSize="12dp"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/colorBlack"
+        android:padding="12dp"/>
+    <EditText
+        android:id="@+id/enter_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_address"
+        android:textColorHint="@color/colorGray"
+        android:layout_marginTop="24dp"
+        android:textSize="12dp"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/colorBlack"
+        android:padding="12dp"/>
+
+    <EditText
+        android:id="@+id/enter_birth_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_birth_date"
+        android:textColorHint="@color/colorGray"
+        android:layout_marginTop="24dp"
+        android:textSize="12dp"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/colorBlack"
+        android:padding="12dp"/>
+
+    <EditText
+        android:id="@+id/enter_phone_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_phone_number"
+        android:textColorHint="@color/colorGray"
+        android:layout_marginTop="24dp"
+        android:textSize="12dp"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/colorBlack"
+        android:padding="12dp"/>
+
+    <EditText
+        android:id="@+id/enter_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_email"
+        android:textColorHint="@color/colorGray"
+        android:layout_marginTop="24dp"
+        android:textSize="12dp"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/colorBlack"
+        android:padding="12dp"/>
+
+</LinearLayout>
